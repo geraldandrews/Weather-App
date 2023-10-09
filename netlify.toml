@@ -1,2 +1,4 @@
 [bulid]
     publish = "dist/"
+
+    functions = "serverless/"
