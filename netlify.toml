@@ -1,4 +1,6 @@
-[bulid]
-    publish = "dist/"
+[functions]
+  directory = "functions"
 
+[build]
     functions = "serverless"
+    publish = "dist/"
