@@ -1,6 +1,4 @@
-[functions]
-  directory = "serverless"
-
 [build]
+    publish = "dist"
+
     functions = "serverless"
-    publish = "dist/"
